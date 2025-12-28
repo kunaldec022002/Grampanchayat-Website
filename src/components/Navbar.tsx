@@ -11,7 +11,7 @@ const navItems = [
   { name: 'शिक्षण आणि पर्यावरण', nameEn: 'Education', href: '/education', icon: BookOpen },
   { name: 'सेवा', nameEn: 'Services', href: '/services', icon: Settings },
   { name: 'गॅलरी', nameEn: 'Gallery', href: '/gallery', icon: Image },
-  { name: 'संपर्क', nameEn: 'Contact', href: '/contact', icon: Phone },
+  // { name: 'संपर्क', nameEn: 'Contact', href: '/contact', icon: Phone },
 ];
 
 export const Navbar = () => {
@@ -30,7 +30,7 @@ export const Navbar = () => {
               className="w-10 h-10 md:w-12 md:h-12 object-contain group-hover:scale-110 transition-transform duration-300"
             />
             <div className="hidden sm:block">
-              <h1 className="font-marathi text-lg md:text-xl font-bold text-foreground">ग्रामपंचायत विचोऱी</h1>
+              <h1 className="font-marathi text-lg md:text-xl font-bold text-foreground">ग्रामपंचायत खोपडा</h1>
               <p className="text-xs text-muted-foreground">तालुका मोर्शी, जिल्हा अमरावती</p>
             </div>
           </Link>
