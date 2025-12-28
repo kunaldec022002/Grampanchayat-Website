@@ -7,10 +7,10 @@ import villageCommunity from '@/assets/village-community.jpg';
 import villageFarming from '@/assets/village-farming.jpg';
 
 const heroImages = [
-  { src: heroImage, alt: 'विचोऱी गाव - मुख्य दृश्य' },
-  { src: villageTemple, alt: 'विचोऱी गाव - मंदिर' },
-  { src: villageCommunity, alt: 'विचोऱी गाव - समुदाय' },
-  { src: villageFarming, alt: 'विचोऱी गाव - शेती' },
+  { src: heroImage, alt: 'खोपडा गाव - मुख्य दृश्य' },
+  { src: villageTemple, alt: 'खोपडा गाव - मंदिर' },
+  { src: villageCommunity, alt: 'खोपडा गाव - समुदाय' },
+  { src: villageFarming, alt: 'खोपडा गाव - शेती' },
 ];
 
 export const Hero = () => {
@@ -77,7 +77,7 @@ export const Hero = () => {
 
           {/* Main Title */}
           <h1 className="font-marathi text-4xl md:text-6xl lg:text-7xl font-bold text-card mb-6 animate-fade-in-up">
-            ग्रामपंचायत विचोऱी
+            ग्रामपंचायत खोपडा
           </h1>
 
           {/* Subtitle */}

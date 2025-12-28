@@ -36,7 +36,7 @@ export const AboutSection = () => {
             <div className="relative rounded-2xl overflow-hidden shadow-card">
               <img
                 src={villageImage}
-                alt="विचोऱी गावातील शेती"
+                alt="खोपडा गावातील शेती"
                 className="w-full h-[400px] object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-foreground/50 to-transparent" />
@@ -56,10 +56,10 @@ export const AboutSection = () => {
               आमच्याबद्दल
             </span>
             <h2 className="font-marathi text-3xl md:text-4xl font-bold text-foreground mb-6">
-              ग्रामपंचायत विचोऱी, तालुका मोर्शी
+              ग्रामपंचायत खोपडा, तालुका मोर्शी
             </h2>
             <p className="font-marathi text-muted-foreground leading-relaxed mb-8">
-              विचोऱी हे गाव अमरावती जिल्ह्यातील एक छोटे आणि सुंदर गाव आहे. हे गाव मुख्यतः शेतीप्रधान आहे आणि येथील बहुतांश लोक शेतीवर आपला उदरनिर्वाह करतात. विचोऱी परिसरात नैसर्गिक सौंदर्य भरपूर आहे; गावाच्या आजूबाजूला हिरवळ आणि शेतीमुळे येथील वातावरण मनमोहक वाटते.
+              खोपडा हे गाव अमरावती जिल्ह्यातील एक छोटे आणि सुंदर गाव आहे. हे गाव मुख्यतः शेतीप्रधान आहे आणि येथील बहुतांश लोक शेतीवर आपला उदरनिर्वाह करतात. खोपडा परिसरात नैसर्गिक सौंदर्य भरपूर आहे; गावाच्या आजूबाजूला हिरवळ आणि शेतीमुळे येथील वातावरण मनमोहक वाटते.
             </p>
 
             {/* Features Grid */}

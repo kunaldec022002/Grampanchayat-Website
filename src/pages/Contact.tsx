@@ -11,7 +11,7 @@ const contactInfo = [
   {
     icon: MapPin,
     title: 'पत्ता',
-    details: ['ग्रामपंचायत कार्यालय, विचोऱी', 'तालुका मोर्शी, जिल्हा अमरावती', 'महाराष्ट्र - ४४४९०५'],
+    details: ['ग्रामपंचायत कार्यालय, खोपडा', 'तालुका मोर्शी, जिल्हा अमरावती', 'महाराष्ट्र - ४४४९०५'],
   },
   {
     icon: Phone,
@@ -184,7 +184,7 @@ const Contact = () => {
                   <div className="text-center">
                     <MapPin className="w-12 h-12 text-muted-foreground mx-auto mb-4" />
                     <p className="font-marathi text-muted-foreground">
-                      विचोऱी, तालुका मोर्शी, जिल्हा अमरावती
+                      खोपडा, तालुका मोर्शी, जिल्हा अमरावती
                     </p>
                   </div>
                 </div>

@@ -8,7 +8,7 @@ import villageFarming from '@/assets/village-farming.jpg';
 import heroVillage from '@/assets/hero-village.jpg';
 
 const galleryImages = [
-  { src: heroVillage, alt: 'विचोऱी गाव दृश्य', category: 'गाव' },
+  { src: heroVillage, alt: 'खोपडा गाव दृश्य', category: 'गाव' },
   { src: villageCommunity, alt: 'समुदाय जीवन', category: 'समुदाय' },
   { src: villageTemple, alt: 'गावातील मंदिर', category: 'धार्मिक' },
   { src: villageFarming, alt: 'शेती', category: 'शेती' },
@@ -39,7 +39,7 @@ const Gallery = () => {
               फोटो गॅलरी
             </h1>
             <p className="font-marathi text-lg text-primary-foreground/80 max-w-2xl mx-auto animate-fade-in-up stagger-2">
-              विचोऱी गावातील सुंदर दृश्ये, सण-उत्सव आणि दैनंदिन जीवनाचे क्षण
+              खोपडा गावातील सुंदर दृश्ये, सण-उत्सव आणि दैनंदिन जीवनाचे क्षण
             </p>
           </div>
         </section>

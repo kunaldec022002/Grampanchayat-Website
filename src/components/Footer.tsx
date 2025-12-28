@@ -29,12 +29,12 @@ export const Footer = () => {
                 <span className="text-secondary-foreground font-bold text-xl">ग्रा</span>
               </div>
               <div>
-                <h3 className="font-marathi text-lg font-bold">ग्रामपंचायत विचोऱी</h3>
+                <h3 className="font-marathi text-lg font-bold">ग्रामपंचायत खोपडा</h3>
                 <p className="text-sm text-background/60">तालुका मोर्शी</p>
               </div>
             </div>
             <p className="font-marathi text-background/70 text-sm leading-relaxed mb-6">
-              विचोऱी हे एक प्रगत, शांत आणि संस्कारी गाव आहे. ग्रामपंचायत नागरिकांच्या सेवेसाठी सदैव तत्पर आहे.
+              खोपडा हे एक प्रगत, शांत आणि संस्कारी गाव आहे. ग्रामपंचायत नागरिकांच्या सेवेसाठी सदैव तत्पर आहे.
             </p>
             <div className="flex gap-3">
               <a href="#" className="w-10 h-10 rounded-full bg-background/10 flex items-center justify-center hover:bg-secondary hover:text-secondary-foreground transition-colors">
@@ -92,7 +92,7 @@ export const Footer = () => {
               <li className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-secondary flex-shrink-0 mt-0.5" />
                 <span className="font-marathi text-background/70 text-sm">
-                  ग्रामपंचायत विचोऱी, तालुका मोर्शी, जिल्हा अमरावती, महाराष्ट्र - ४४४९०५
+                  ग्रामपंचायत खोपडा, तालुका मोर्शी, जिल्हा अमरावती, महाराष्ट्र - ४४४९०५
                 </span>
               </li>
               <li className="flex items-center gap-3">
@@ -116,7 +116,7 @@ export const Footer = () => {
       <div className="border-t border-background/10">
         <div className="container mx-auto px-4 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-background/60">
-            <p className="font-marathi">© २०२५ ग्रामपंचायत विचोऱी. सर्व हक्क राखीव.</p>
+            <p className="font-marathi">© २०२५ ग्रामपंचायत खोपडा. सर्व हक्क राखीव.</p>
             <p className="font-marathi">महाराष्ट्र शासन द्वारे संचालित</p>
           </div>
         </div>

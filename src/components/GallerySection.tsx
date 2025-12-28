@@ -25,7 +25,7 @@ export const GallerySection = () => {
               आमच्या गावाचे दृश्य
             </h2>
             <p className="text-muted-foreground max-w-xl font-marathi">
-              विचोऱी गावातील सुंदर स्थळे आणि उत्सव
+              खोपडा गावातील सुंदर स्थळे आणि उत्सव
             </p>
           </div>
           <Button variant="hero" asChild>

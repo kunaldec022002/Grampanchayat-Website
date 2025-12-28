@@ -26,7 +26,7 @@ export const Navbar = () => {
           <Link to="/" className="flex items-center gap-3 group">
             <img 
               src={logo} 
-              alt="ग्रामपंचायत विचोऱी Logo" 
+              alt="ग्रामपंचायत खोपडा Logo" 
               className="w-10 h-10 md:w-12 md:h-12 object-contain group-hover:scale-110 transition-transform duration-300"
             />
             <div className="hidden sm:block">

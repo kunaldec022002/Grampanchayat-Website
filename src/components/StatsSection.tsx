@@ -64,7 +64,7 @@ export const StatsSection = () => {
             गावाची आकडेवारी
           </h2>
           <p className="text-primary-foreground/80 max-w-2xl mx-auto font-marathi">
-            विचोऱी गावाची महत्वाची माहिती एका नजरेत
+            खोपडा गावाची महत्वाची माहिती एका नजरेत
           </p>
         </div>
 
